@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sistem Pakar Diagnosa Gigitan Nyamuk</string>
+    <string name="gejala_1">Pendarahan diantaranya mimisan, muntah darah dan BAB berdarah.</string>
+    <string name="gejala_2">Demam tinggi secara mendadak, kemudian demam turun, lalu demam naik lagi.</string>
+    <string name="gejala_3">Nafsu makan menurun.</string>
+    <string name="gejala_4">Pusing yang diikuti dengan rasa lemah, letih dan lesu.</string>
+    <string name="gejala_5">Tubuh terasa dingin.</string>
+    <string name="gejala_6">Muncul bintik merah pada kulit.</string>
+    <string name="gejala_7">Mual disertai dengan muntah.</string>
+    <string name="gejala_8">Nyeri pada badan.</string>
+    <string name="gejala_9">Susah buang air besar.</string>
+    <string name="gejala_gejala">Gejala - Gejala :</string>
+    <string name="diagnosa">Diagnosa</string>
+</resources>
